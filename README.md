@@ -6,7 +6,7 @@ This script, `dev_env_setup.sh`, automates the process of setting up a developme
 Here's a brief overview of what the script does:
 
 1. Updates the system's package lists and upgrades all installed packages.
-2. Installs essential development tools like git, curl, vim & unzip.
+2. Installs essential development tools like git, curl, cron, vim & unzip.
 3. Installs and configures multiple versions(7.4, 8.2) of PHP.
 4. Installs and configures Composer.
 5. Installs and configures NVM and Node.js(16.18, 20.10).
