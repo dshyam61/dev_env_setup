@@ -113,7 +113,7 @@ sudo add-apt-repository -y ppa:ondrej/nginx-mainline
 sudo apt-get update
 
 # Install essential development tools
-sudo apt install -y build-essential nginx git curl vim unzip memcached redis-server supervisor
+sudo apt install -y build-essential nginx git curl vim unzip memcached redis-server supervisor cron
 
 #PHP
 install_php_versions
